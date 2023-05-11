@@ -1,0 +1,70 @@
+.iletişim
+{
+    border: 2px solid rgb(249, 225, 195); 
+    background-color: antiquewhite; 
+    border-width: 100%;
+    height: 221%;
+}
+.inputlar
+{
+    
+    float: right;
+
+}
+p
+{
+    font-size: 20px;
+    font-style: oblique;
+}
+.mailyazı
+{
+    border: 2px solid rgb(249, 225, 195) ;
+    width: 70px;
+    margin-left: 46%;
+    margin-top: 20px;
+}
+.isimyazı
+{
+    border: 2px solid rgb(249, 225, 195) ;
+    width: 70px;
+    margin-left: 46%;
+    margin-top: 1.5%;
+}
+.telefonyazı
+{
+    border: 2px solid rgb(249, 225, 195) ;
+    width: 70px;
+    margin-left: 46%;
+    margin-top: 20px;
+}
+.input
+{
+    margin-left: 41.5%;
+}
+.formmmm{
+    border: 2px solid cornflowerblue;
+    background-color: cornflowerblue;
+}
+.isimm
+{
+    width: 100%;
+}
+.mail
+{
+    width: 100%;
+
+}
+.mesaj
+{
+    width: 100%;
+}
+#sub
+{
+    border: 2px solid greenyellow;
+    border-radius: 10%;
+    background-color: greenyellow;
+}
+.formmmm
+{
+    height: 180%;
+}
