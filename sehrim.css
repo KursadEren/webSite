@@ -1,0 +1,56 @@
+.container
+{
+    
+     border: 2px solid antiquewhite;
+     background-color: rgb(252, 246, 238);
+}
+.yanresim
+{
+    width:30% ;
+    height: 500px;
+}
+.bxslider
+{
+    font: optional;
+    width: 60%;
+}
+.sliderrrr
+{
+    width: 60%; 
+    margin-left: 20%;
+}
+.resimmm
+{
+    width: 107.5%;
+    height: 100%;
+    
+}
+.sahabiye
+{
+    width: 100%;
+    height: 100%;
+    
+    
+}
+.p
+{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.paragraf
+{
+    border: 2px solid rgb(249, 222, 187);
+    background-color: rgb(252, 246, 238);
+    height: 100%;
+    width: 107.5%;
+    font-size: larger;
+}
+.kapuz
+{
+
+}
+.sahabiye-panel
+{
+    width: 100%;
+    height: 100%;
+}
