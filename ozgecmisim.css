@@ -1,0 +1,139 @@
+li
+{   
+    display: inline;
+    margin: 60px;
+    position: relative;
+    text-decoration: dashed;
+    text-transform: lowercase;
+    
+}
+a
+{
+    font-weight: bold;
+color: black;
+font-style: oblique;
+font-family: Arial, Helvetica, sans-serif;
+text-decoration: none;
+vertical-align: baseline;
+}
+a:hover
+{
+    font-weight: bold;
+color: maroon;
+font-style: oblique;
+font-family: Arial, Helvetica, sans-serif;
+text-decoration: none;
+vertical-align: baseline;
+}
+div.ul1
+{
+    border-style: solid;
+      border-width: 2px;
+      border-color:rgb(254, 225, 188);
+      border-radius: 10px ;
+      background-color: rgb(253, 245, 234);
+     
+}
+.adım2
+{
+ 
+  
+  border-style: double;
+  border-color:rgb(254, 225, 188);
+  border-radius: 10px ;
+  background-color: rgb(253, 245, 234);
+ 
+}
+
+#ab
+{
+    width: 18%;
+    margin: 10px;
+    height: 0px;
+    display: inline-block;
+    position: relative;
+
+}
+.fixed{
+    position: fixed ;
+    bottom: 0 ;
+    right: 0 ;
+    border: 2px solid red ;
+    background-color: rgb(253, 245, 234);
+    opacity: 0.8 ;
+    color: white ;
+    width: auto;
+    height:auto;
+}
+.profil
+{
+    
+   float: left;
+   width: auto;
+   position: relative;
+    
+
+    
+}
+.profilresim
+{
+    border: 2px solid rgb(246, 202, 139) ;
+    border-style: solid ;
+    border-width: auto;
+    margin-top: 6%;
+    margin-left: 3%;
+    height: 300px;
+    width: 300px;
+    position: relative;
+
+    
+}
+
+aside {
+    width: 40%;
+    height: 500px;
+    margin-left: 300px;
+    padding-left: .8rem;
+    position:relative;
+    float: left;
+    
+    box-shadow: inset 5px 0px 5px -5px #29627e;
+    font-style: italic;
+    color: #29627e;
+    position: relative;
+}
+
+aside > p {
+    margin: .5rem;
+    width: 100%;
+    
+}
+
+p {
+    font-family: 'Fira Sans', sans-serif;
+    
+}
+.bilgiyazı
+{
+    border: 2px solid rgb(246, 202, 139);
+    background-color:rgb(250, 226, 192) ;
+    margin-left: 3%;
+    margin-top: 10%;
+    border-width: 100%;
+    font-size: 20px;
+    
+}
+.yanyazı
+ {
+     font-size: 25px;
+ }
+.yazıiçrik
+{
+    position: relative;
+}
+
+
+
+
+  
+
