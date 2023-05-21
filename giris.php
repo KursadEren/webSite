@@ -1,8 +1,9 @@
 <!DOCTYPE html>
 <head>
     <meta charset="utf-8">
-    <link rel="stylesheet" type="text/css" href="giris.css">
-    <link rel="stylesheet" type="text/css" href="C:\\Users\\keren\\Desktop\\web odevi\\anasayfa.css">
+     <link rel="stylesheet" type="text/css" href="giris.css">
+    <link rel="stylesheet" type="text/css" href="anasayfa.css">
+   
 </head>
 <body>
 
@@ -10,13 +11,13 @@
     <header  >  
         <div class = "ul1" >
            <ul >
-            <li><a class ="hakkı" href="anasayfa.html">Hakkında</a></li>
-            <li><a class = "giriş" href="C:\\Users\\keren\\Desktop\\web odevi\\php\\giris.html">Giriş</a></li>
+            <li><a class ="hakkı" href="index.html">Hakkında</a></li>
+            <li><a class = "giriş" href="giris.html">Giriş</a></li>
             <li><a class ="miras" href="Miras.html">Mirasımız</a></li>
             <li><a class = "şehir" href="sehrim.html">Şehrimiz</a></li>
             <li><a class ="oz" href="ozgecmisim.html">Özgeçmişim</a></li> 
             <li><a class ="ilet" href="iletisim.html">İletişim</a></li>  
-            <li><a class ="ilgi" href="C:\\Users\\keren\\Desktop\\web odevi\\public\\index.html">ilgialanlarım</a></li>   
+            <li><a class ="ilgi" href="ilgialanlarım.html">ilgialanlarım</a></li>   
            </ul>
         </div> 
        </header> 
