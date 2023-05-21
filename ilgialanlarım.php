@@ -10,20 +10,20 @@
      <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
      <link rel="stylesheet" type="text/css" href="anasayfa.css"/>
      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-     <link rel="stylesheet" type="text/css" href="ilgialanlarım.css"/>
+    <link rel="stylesheet" type="text/css" href="ilgialanları.css"/>
 </head>
 
 <body >
    
       <header  >  
      <div class = "ul1" >
-      <li><a class ="hakkı" href="anasayfa.html">Hakkında</a></li>
+      <li><a class ="hakkı" href="index.html">Hakkında</a></li>
          <li><a class = "giriş" href="giris.html">Giriş</a></li>
          <li><a class ="miras" href="Miras.html">Mirasımız</a></li>
          <li><a class = "şehir" href="sehrim.html">Şehrimiz</a></li>
          <li><a class ="oz" href="ozgecmisim.html">Özgeçmişim</a></li> 
          <li><a class ="ilet" href="iletisim.html">İletişim</a></li>  
-         <li><a class ="ilgi" href="C:\\Users\\keren\\Desktop\\web odevi\\public\\index.html">ilgialanlarım</a></li>
+         <li><a class ="ilgi" href="ilgialanlarım.php">ilgialanlarım</a></li>
      </div> 
     </header>  
     <nav class = "adım2">
